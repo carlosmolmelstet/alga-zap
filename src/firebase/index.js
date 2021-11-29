@@ -5,14 +5,13 @@ import "firebase/auth";
 import "firebase/firestore";
 
 firebase.initializeApp({
-  apiKey: "AIzaSyDK5dIpQHjYXeZ4ErWxsZu3TE611FeN8Fo",
-  authDomain: "alga-zap-c7aa4.firebaseapp.com",
-  databaseURL: "https://alga-zap-c7aa4.firebaseio.com",
-  projectId: "alga-zap-c7aa4",
-  storageBucket: "alga-zap-c7aa4.appspot.com",
-  messagingSenderId: "281051438793",
-  appId: "1:281051438793:web:6cf89ea664b557752d3718",
-  measurementId: "G-YDR89YJGT5"
+  apiKey: "AIzaSyBDpWEIuviHLzA8VQZWU3I_r0xhGIPLHkI",
+  authDomain: "planning-b96eb.firebaseapp.com",
+  projectId: "planning-b96eb",
+  storageBucket: "planning-b96eb.appspot.com",
+  messagingSenderId: "673898358644",
+  appId: "1:673898358644:web:ee5b285e4d85690a106e21",
+  measurementId: "G-KKS32ESZXZ"
 })
 
 export { firebase }
